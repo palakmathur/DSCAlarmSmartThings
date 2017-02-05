@@ -45,3 +45,12 @@ Credits
 --------
 * Timer library from Simon Monk
 * SmartThings shield library from SmartThings (modified for ArduinoMega)
+
+Links
+------
+https://community.smartthings.com/t/dscalarmsmartthings-guide/9731
+https://github.com/yracine/DSC-Integration-with-Arduino-Mega-Shield-RS-232
+https://github.com/vassilisv/DSCAlarmSmartThings
+https://graph.api.smartthings.com/ide/devices
+http://forum.pine64.org/archive/index.php?thread-139.html
+
